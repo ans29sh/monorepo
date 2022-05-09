@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/admin" />
             <option value="$PROJECT_DIR$/behavioural-engine" />
             <option value="$PROJECT_DIR$/commons" />
+            <option value="$PROJECT_DIR$/telemetry" />
           </set>
         </option>
       </GradleProjectSettings>
