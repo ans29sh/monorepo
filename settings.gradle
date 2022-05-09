@@ -1,2 +1,6 @@
 rootProject.name = 'monorepo'
+include 'commons'
+include 'behavioural-engine'
+include 'behavioural-engine'
+include 'admin'
 
